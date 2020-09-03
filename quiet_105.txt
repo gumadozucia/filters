@@ -1,2 +1,3 @@
 0.0.0.0 metrika.lookmovie.ag
 0.0.0.0 activate.glasswire.com
+0.0.0.0 www.bitchute.com
