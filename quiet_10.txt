@@ -1,4 +1,4 @@
-www.bing.com
-www.paypal.me
-www.paypalobjects.com
-history.google.com
+0.0.0.0 www.bing.com
+0.0.0.0 www.paypal.me
+0.0.0.0 www.paypalobjects.com
+0.0.0.0 history.google.com
