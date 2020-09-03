@@ -1,0 +1,8 @@
+widgets.wp.com
+wordpress.org
+disqus.com
+c.disquscdn.com
+a.disquscdn.com
+firebaseinstallations.googleapis.com
+onecs-live.azureedge.net
+oneclient.sfx.ms
