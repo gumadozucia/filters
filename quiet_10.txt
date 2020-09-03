@@ -2,3 +2,4 @@
 0.0.0.0 www.paypal.me
 0.0.0.0 www.paypalobjects.com
 0.0.0.0 history.google.com
+0.0.0.0 pay.google.com
