@@ -1,0 +1,6 @@
+footprints-pa.googleapis.com
+semanticlocation-pa.googleapis.com
+history.google.com
+photosdata-pa.googleapis.com
+onecs-live.azureedge.net
+oneclient.sfx.ms
