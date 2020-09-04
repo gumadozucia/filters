@@ -1,0 +1,7 @@
+www.youtube.com##[aria-label="Reply"]
+www.youtube.com##a:has(>yt-formatted-string:has-text(Save))
+www.youtube.com###dislike-button
+www.youtube.com###like-button
+www.youtube.com##.ytd-comment-simplebox-renderer
+www.youtube.com##.ytd-sponsor-comment-badge-renderer
+www.youtube.com###chat
