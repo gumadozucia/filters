@@ -5,3 +5,7 @@
 0.0.0.0 pay.google.com
 0.0.0.0 appleid.cdn-apple.com
 0.0.0.0 connect.facebook.net
+0.0.0.0 discord.com
+0.0.0.0 compose.mail.yahoo.com
+0.0.0.0 speeddials.opera.com
+0.0.0.0 cdn.discordapp.com
