@@ -1,6 +1,8 @@
 ! Title: Web
 ! Expires: 48 hours
 
+
+#youtube
 www.youtube.com###chat
 www.youtube.com###dislike-button
 www.youtube.com###like-button
@@ -17,3 +19,40 @@ www.youtube.com##a:has(>yt-formatted-string:has-text(Save))
 ||www.youtube.com/api/stats/watchtime$domain=www.youtube.com
 ||www.youtube.com/youtubei/v1/log_event$xhr,domain=www.youtube.com
 ||www.youtube.com/ytscframe$subdocument
+
+
+#ceneo
+www.ceneo.pl##[data-shop="32163"]
+www.ceneo.pl##[data-shopurl="1000-sale.pl"]
+www.ceneo.pl##[data-shopurl="abarta.pl"]
+www.ceneo.pl##[data-shopurl="akces-markt.pl"]
+www.ceneo.pl##[data-shopurl="ale.pl"]
+www.ceneo.pl##[data-shopurl="bitcomputer.pl"]
+www.ceneo.pl##[data-shopurl="buy-it.pl"]
+www.ceneo.pl##[data-shopurl="cyfra.eu"]
+www.ceneo.pl##[data-shopurl="el-mart.pl"]
+www.ceneo.pl##[data-shopurl="eltkom.pl"]
+www.ceneo.pl##[data-shopurl="etroniks.pl"]
+www.ceneo.pl##[data-shopurl="fatpc.pl"]
+www.ceneo.pl##[data-shopurl="gigaserwer.pl"]
+www.ceneo.pl##[data-shopurl="kakto.pl"]
+www.ceneo.pl##[data-shopurl="komidom.pl"]
+www.ceneo.pl##[data-shopurl="krsystem.pl"]
+www.ceneo.pl##[data-shopurl="lan-expert.pl"]
+www.ceneo.pl##[data-shopurl="m3-akcesoria.pl"]
+www.ceneo.pl##[data-shopurl="maxsklep.pl"]
+www.ceneo.pl##[data-shopurl="mocnykomputer.pl"]
+www.ceneo.pl##[data-shopurl="ofertyzkosmosu.pl"]
+www.ceneo.pl##[data-shopurl="olt.pl"]
+www.ceneo.pl##[data-shopurl="pantego24.pl"]
+www.ceneo.pl##[data-shopurl="pcprojekt.pl"]
+www.ceneo.pl##[data-shopurl="proline.pl"]
+www.ceneo.pl##[data-shopurl="prosupport.com.pl"]
+www.ceneo.pl##[data-shopurl="rtvpixelagd.pl"]
+www.ceneo.pl##[data-shopurl="senetic.pl"]
+www.ceneo.pl##[data-shopurl="servecom.pl"]
+www.ceneo.pl##[data-shopurl="sklep-met.pl"]
+www.ceneo.pl##[data-shopurl="sklep.newagehardware.pl"]
+www.ceneo.pl##[data-shopurl="strefa-komfortu.pl"]
+www.ceneo.pl##[data-shopurl="yalu.pl"]
+www.ceneo.pl##[data-shopurl="zizako.pl"]
