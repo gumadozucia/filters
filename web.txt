@@ -1,7 +1,19 @@
-www.youtube.com##[aria-label="Reply"]
-www.youtube.com##a:has(>yt-formatted-string:has-text(Save))
+! Title: Web
+! Expires: 48 hours
+
+www.youtube.com###chat
 www.youtube.com###dislike-button
 www.youtube.com###like-button
 www.youtube.com##.ytd-comment-simplebox-renderer
 www.youtube.com##.ytd-sponsor-comment-badge-renderer
-www.youtube.com###chat
+www.youtube.com##[aria-label="Reply"]
+www.youtube.com##a:has(>yt-formatted-string:has-text(Save))
+||consent.google.com^
+||consent.youtube.com/_/ConsentUi/*$domain=consent.youtube.com
+||consent.youtube.com^
+||play.google.com/log$xhr,domain=consent.youtube.com
+||www.gstatic.com/_/mss/boq-identity/_/js/*$script,domain=consent.youtube.com
+||www.youtube.com/api/stats/playback$domain=www.youtube.com
+||www.youtube.com/api/stats/watchtime$domain=www.youtube.com
+||www.youtube.com/youtubei/v1/log_event$xhr,domain=www.youtube.com
+||www.youtube.com/ytscframe$subdocument
