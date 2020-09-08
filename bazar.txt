@@ -1,6 +1,11 @@
 ! Title: Bazar
 ! Expires: 24 hours
 
+bazar.lowcygier.pl####.game-list > div:has([href="/offer/game/612"])
+bazar.lowcygier.pl####.game-list > div:has([href="/offer/game/1587"])
+bazar.lowcygier.pl####.game-list > div:has([href="/offer/game/3192"])
+bazar.lowcygier.pl####.game-list > div:has([href="/offer/game/36028"])
+bazar.lowcygier.pl####.game-list > div:has([href="/offer/game/55076"])
 bazar.lowcygier.pl##.game-list > div:has([href="/offer/game/9"])
 bazar.lowcygier.pl##.game-list > div:has([href="/offer/game/32"])
 bazar.lowcygier.pl##.game-list > div:has([href="/offer/game/72"])
