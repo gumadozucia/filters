@@ -1,13 +1,9 @@
 0.0.0.0 appleid.cdn-apple.com
 0.0.0.0 cdn.discordapp.com
 0.0.0.0 compose.mail.yahoo.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 discord.com
 0.0.0.0 extension-updates.opera.com
 0.0.0.0 gmpg.org
-0.0.0.0 history.google.com
-0.0.0.0 mlpol.net
-0.0.0.0 mrtg.emailpartners.net
 0.0.0.0 np.reddit.com
 0.0.0.0 pay.google.com
 0.0.0.0 photos-ugc.l.googleusercontent.com
