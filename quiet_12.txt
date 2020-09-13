@@ -1,8 +1,11 @@
+0.0.0.0 a.disquscdn.com
+0.0.0.0 c.disquscdn.com
+0.0.0.0 disqus.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 mlpol.net
+0.0.0.0 mrtg.emailpartners.net
+0.0.0.0 oneclient.sfx.ms
+0.0.0.0 onecs-live.azureedge.net
+0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 widgets.wp.com
 0.0.0.0 wordpress.org
-0.0.0.0 disqus.com
-0.0.0.0 c.disquscdn.com
-0.0.0.0 a.disquscdn.com
-0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 onecs-live.azureedge.net
-0.0.0.0 oneclient.sfx.ms
