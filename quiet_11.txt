@@ -1,9 +1,5 @@
 0.0.0.0 appleid.cdn-apple.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 footprints-pa.googleapis.com
-0.0.0.0 history.google.com
-0.0.0.0 mlpol.net
-0.0.0.0 mrtg.emailpartners.net
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecs-live.azureedge.net
 0.0.0.0 photosdata-pa.googleapis.com
