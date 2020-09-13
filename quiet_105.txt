@@ -1,3 +1,8 @@
-0.0.0.0 metrika.lookmovie.ag
 0.0.0.0 activate.glasswire.com
+0.0.0.0 gateway.reddit.com
+0.0.0.0 gql.reddit.com
+0.0.0.0 metrika.lookmovie.ag
+0.0.0.0 s.reddit.com
+0.0.0.0 strapi.reddit.com
 0.0.0.0 www.bitchute.com
+0.0.0.0 www.feedgrabbr.com
