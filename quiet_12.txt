@@ -7,3 +7,6 @@
 0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 widgets.wp.com
 0.0.0.0 wordpress.org
+#2020-09-15:
+0.0.0.0 update.vivaldi.com
+0.0.0.0 downloads.vivaldi.com
