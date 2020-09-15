@@ -7,3 +7,4 @@
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 www.google.ru
 0.0.0.0 styles.redditmedia.com
+0.0.0.0 www.ezoic.com
