@@ -5,3 +5,12 @@
 0.0.0.0 photosdata-pa.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
+#2020-09-15:
+0.0.0.0 www.reddit.com
+0.0.0.0 styles.redditmedia.com
+0.0.0.0 update.vivaldi.com
+0.0.0.0 preview.redd.it
+0.0.0.0 history.google.com
+0.0.0.0 dns.google.com
+0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 downloads.vivaldi.com
