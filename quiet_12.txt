@@ -10,3 +10,9 @@
 #2020-09-15:
 0.0.0.0 update.vivaldi.com
 0.0.0.0 downloads.vivaldi.com
+#2020-09-25
+0.0.0.0 airly.eu
+0.0.0.0 widget.airly.org
+0.0.0.0 cdn.airly.eu
+0.0.0.0 user-images.githubusercontent.com
+0.0.0.0 offlinepages-pa.googleapis.com
