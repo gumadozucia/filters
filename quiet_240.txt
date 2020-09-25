@@ -19,3 +19,7 @@
 0.0.0.0 flow.opera.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 desktop-dna.osp.opera.software
+0.0.0.0 boards.4channel.org
+0.0.0.0 4channel.org
+0.0.0.0 www.4chan.org
+0.0.0.0 4chan.org
