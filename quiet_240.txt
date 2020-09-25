@@ -8,3 +8,14 @@
 0.0.0.0 www.google.ru
 0.0.0.0 styles.redditmedia.com
 0.0.0.0 www.ezoic.com
+#2020-09-25
+0.0.0.0 www.planeta.pl
+0.0.0.0 ktociewyleczy.pl
+0.0.0.0 feedback.esp.vmware.com
+0.0.0.0 sd-images.operacdn.com
+0.0.0.0 weather.opera-api.com
+0.0.0.0 exchange.opera.com
+0.0.0.0 androidpay-users-pa.googleapis.com
+0.0.0.0 flow.opera.com
+0.0.0.0 clouderrorreporting.googleapis.com
+0.0.0.0 desktop-dna.osp.opera.software
