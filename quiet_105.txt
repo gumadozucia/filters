@@ -24,3 +24,4 @@
 0.0.0.0 mcf4wh-jdfmxrzzzttwqcrf-d3b4.device.marketingcloudapis.com
 0.0.0.0 mcz7v0bq19k2d2x8hzzfznjg0ln8.device.marketingcloudapis.com
 0.0.0.0 toi.cdn.dopc.cz
+0.0.0.0 ewniosek.credit-agricole.pl
