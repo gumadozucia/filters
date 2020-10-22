@@ -1,3 +1,5 @@
+#All devices
+
 0.0.0.0 activate.glasswire.com
 0.0.0.0 gateway.reddit.com
 0.0.0.0 gql.reddit.com
