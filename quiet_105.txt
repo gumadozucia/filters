@@ -9,3 +9,18 @@
 0.0.0.0 www.bitchute.com
 0.0.0.0 www.feedgrabbr.com
 0.0.0.0 uptodown.com
+#2020-10-22
+0.0.0.0 4channel.org
+0.0.0.0 www.4chan.org
+0.0.0.0 4chan.org
+0.0.0.0 boards.4channel.org
+0.0.0.0 weather.opera-api.com
+0.0.0.0 exchange.opera.com
+0.0.0.0 feedback.esp.vmware.com
+0.0.0.0 dns.google.com
+0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 www.google.ru
+0.0.0.0 pixel6.wp.pl
+0.0.0.0 mcf4wh-jdfmxrzzzttwqcrf-d3b4.device.marketingcloudapis.com
+0.0.0.0 mcz7v0bq19k2d2x8hzzfznjg0ln8.device.marketingcloudapis.com
+0.0.0.0 toi.cdn.dopc.cz
