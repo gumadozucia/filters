@@ -1,7 +1,6 @@
 ! Title: Web
 ! Expires: 48 hours
 
-
 #youtube
 www.youtube.com###chat
 www.youtube.com###dislike-button
@@ -35,3 +34,16 @@ www.morele.net###civil_code
 www.morele.net##.box-hidden.product-seo-inner
 www.morele.net##.seo-description
 www.morele.net##.social-media.section
+
+#news
+www.dobreprogramy.pl###divBackToWp
+www.dobreprogramy.pl###divGoToWp
+
+||www.purepc.pl/files/Image/kynhifyeqr62x21.jpg$image
+www.purepc.pl##[href^="/rediz.php"]
+
+www.wykop.pl###footer
+www.wykop.pl###popup-overlay
+www.wykop.pl##.closableContainerpopup_register
+wykop.pl##li:has(a:has-text(aszdziennik.pl))
+wykop.pl##div.annotation:has-text(Oprócz epidemii koronawirusa, musimy walczyć też z epidemią dezinformacji. Starajmy się wspólnie o wysoki poziom społecznej weryfikacji treści na naszym portalu i sprawdzajmy informacje w rzetelnych źródłach. Polecamy, aby informacje dotyczące koronawirusa sprawdzać także na)
