@@ -28,12 +28,18 @@ www.euro.com.pl##.product-tab-uslugi
 www.euro.com.pl##.rotator
 www.euro.com.pl##.section-services.section
 www.euro.com.pl##div.banner-photo
-
+www.aliexpress.com##.ui-newuser-layer-dialog
+www.aliexpress.com##.next-dialog-container
+www.aliexpress.com##.next-overlay-backdrop
 www.amfora.pl##.seo-description
 www.morele.net###civil_code
 www.morele.net##.box-hidden.product-seo-inner
 www.morele.net##.seo-description
 www.morele.net##.social-media.section
+www.pepper.pl###footer-description
+www.pepper.pl##.footer
+www.pepper.pl##.listingProfile-footer
+
 
 #news
 www.dobreprogramy.pl###divBackToWp
@@ -47,3 +53,7 @@ www.wykop.pl###popup-overlay
 www.wykop.pl##.closableContainerpopup_register
 wykop.pl##li:has(a:has-text(aszdziennik.pl))
 wykop.pl##div.annotation:has-text(Oprócz epidemii koronawirusa, musimy walczyć też z epidemią dezinformacji. Starajmy się wspólnie o wysoki poziom społecznej weryfikacji treści na naszym portalu i sprawdzajmy informacje w rzetelnych źródłach. Polecamy, aby informacje dotyczące koronawirusa sprawdzać także na)
+wykop.pl##[href="https://play.google.com/store/apps/details?id=pl.wykop.droid"]
+
+old.reddit.com##.commentsignupbar
+||b.thumbs.redditmedia.com$stylesheet,domain=old.reddit.com
