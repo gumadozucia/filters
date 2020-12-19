@@ -1,3 +1,4 @@
+#Tablet
 0.0.0.0 a.disquscdn.com
 0.0.0.0 c.disquscdn.com
 0.0.0.0 disqus.com
