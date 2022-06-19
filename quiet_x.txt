@@ -1,0 +1,45 @@
+#All devices
+
+0.0.0.0 activate.glasswire.com
+0.0.0.0 gateway.reddit.com
+0.0.0.0 gql.reddit.com
+0.0.0.0 metrika.lookmovie.ag
+0.0.0.0 s.reddit.com
+0.0.0.0 strapi.reddit.com
+0.0.0.0 www.bitchute.com
+0.0.0.0 www.feedgrabbr.com
+0.0.0.0 uptodown.com
+#2020-10-22
+0.0.0.0 4channel.org
+0.0.0.0 www.4chan.org
+0.0.0.0 4chan.org
+0.0.0.0 boards.4channel.org
+0.0.0.0 weather.opera-api.com
+0.0.0.0 exchange.opera.com
+0.0.0.0 feedback.esp.vmware.com
+0.0.0.0 dns.google.com
+0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 www.google.ru
+0.0.0.0 pixel6.wp.pl
+0.0.0.0 mcf4wh-jdfmxrzzzttwqcrf-d3b4.device.marketingcloudapis.com
+0.0.0.0 mcz7v0bq19k2d2x8hzzfznjg0ln8.device.marketingcloudapis.com
+0.0.0.0 toi.cdn.dopc.cz
+0.0.0.0 ewniosek.credit-agricole.pl
+#2021-10-13
+15xmr.pushstring.com
+amanda.v4.omgtnc.com
+api.spoldzielnia.nsaudience.pl
+atm.api.dmp.nsaudience.pl
+bomango.net
+clkv6.rtpdn14.com
+ho.welovedata.pl
+investing-partner.com
+lib.wtg-ads.com
+pushstring.com
+shroughtened.com
+welovedata.hasoffers.com
+welovedata.pl #mailing
+wer.gross-back.pl
+wtg-ads.com
+www.instrkhealth.com
+zdroweplecy.net

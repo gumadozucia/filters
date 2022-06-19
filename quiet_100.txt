@@ -1,0 +1,27 @@
+#PC
+0.0.0.0 appleid.cdn-apple.com
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 compose.mail.yahoo.com
+0.0.0.0 discord.com
+0.0.0.0 extension-updates.opera.com
+0.0.0.0 gmpg.org
+0.0.0.0 np.reddit.com
+0.0.0.0 pay.google.com
+0.0.0.0 photos-ugc.l.googleusercontent.com
+0.0.0.0 redir.opera.com
+0.0.0.0 search.services.mozilla.com
+0.0.0.0 speeddials.opera.com
+0.0.0.0 steambroadcast.akamaized.net
+0.0.0.0 www.bing.com
+0.0.0.0 www.paypal.me
+0.0.0.0 www.paypalobjects.com
+#2020-09-15:
+0.0.0.0 accounts.google.com
+#2020-09-25:
+0.0.0.0 www.paypal.com
+0.0.0.0 www-fastly.glb.paypal.com
+0.0.0.0 sandbox-assets.secure.checkout.visa.com
+0.0.0.0 chat.x-kom.pl
+0.0.0.0 leaselink.azurewebsites.net
+0.0.0.0 satysfakcja.stati.pl
+0.0.0.0 app.live-chat.pl

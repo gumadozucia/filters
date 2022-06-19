@@ -1,0 +1,30 @@
+#ADTest filters
+
+0.0.0.0 connect.facebook.net
+0.0.0.0 history.google.com
+0.0.0.0 mlpol.net
+0.0.0.0 mrtg.emailpartners.net
+#2020-09-15
+0.0.0.0 styles.redditmedia.com
+0.0.0.0 www.ezoic.com
+#2020-09-25
+0.0.0.0 www.planeta.pl
+0.0.0.0 ktociewyleczy.pl
+0.0.0.0 weather.opera-api.com
+0.0.0.0 exchange.opera.com
+0.0.0.0 androidpay-users-pa.googleapis.com
+0.0.0.0 flow.opera.com
+0.0.0.0 clouderrorreporting.googleapis.com
+0.0.0.0 desktop-dna.osp.opera.software
+#2020-10-22
+0.0.0.0 semi.payback.pl
+0.0.0.0 4chan.org
+0.0.0.0 chomikuj.pl
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 games4you.pl
+0.0.0.0 instalkipl.disqus.com
+0.0.0.0 7urodziny.instalki.pl
+0.0.0.0 12urodziny.instalki.pl
+0.0.0.0 konto.gazetaprawna.pl
+0.0.0.0 digidip.net
