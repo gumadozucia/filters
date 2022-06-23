@@ -12,7 +12,6 @@
 0.0.0.0 search.services.mozilla.com
 0.0.0.0 speeddials.opera.com
 0.0.0.0 steambroadcast.akamaized.net
-0.0.0.0 www.bing.com
 0.0.0.0 www.paypal.me
 0.0.0.0 www.paypalobjects.com
 #2020-09-15:
