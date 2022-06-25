@@ -17,3 +17,5 @@
 0.0.0.0 cdn.airly.eu
 0.0.0.0 user-images.githubusercontent.com
 0.0.0.0 offlinepages-pa.googleapis.com
+#2022-06-25
+0.0.0.0 accounts.google.com
