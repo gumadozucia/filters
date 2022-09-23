@@ -1,5 +1,5 @@
 #PC
-0.0.0.0 appleid.cdn-apple.com
+#0.0.0.0 appleid.cdn-apple.com
 0.0.0.0 cdn.discordapp.com
 0.0.0.0 compose.mail.yahoo.com
 0.0.0.0 discord.com
