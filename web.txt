@@ -1,25 +1,37 @@
 ! Title: Web
-! Expires: 48 hours
+! Expires: 7 days
 ! https://raw.githubusercontent.com/gumadozucia/filters/master/web.txt
 
 #youtube
-www.youtube.com###chat
-www.youtube.com###dislike-button
-www.youtube.com###like-button
-www.youtube.com##.ytd-comment-simplebox-renderer
-www.youtube.com##.ytd-sponsor-comment-badge-renderer
-www.youtube.com##[aria-label="Reply"]
-www.youtube.com##a:has(>yt-formatted-string:has-text(Save))
 !||consent.google.com^
 !||consent.youtube.com/_/ConsentUi/*$domain=consent.youtube.com
 !||consent.youtube.com^
 !||play.google.com/log$xhr,domain=consent.youtube.com
 !||www.gstatic.com/_/mss/boq-identity/_/js/*$script,domain=consent.youtube.com
+!||www.youtube.com/ytscframe$subdocument
+##[href^="https://www.youtube.com/watch?v=gkTb9GP9lVI"]
+www.youtube.com###chat
+www.youtube.com###dislike-button
+www.youtube.com###like-button
+www.youtube.com###reply-button-end
+www.youtube.com###sponsor-button
+www.youtube.com###subscribe-button
+www.youtube.com##.opened
+www.youtube.com##.ytd-comment-simplebox-renderer
+www.youtube.com##.ytd-rich-metadata-renderer
+www.youtube.com##.ytd-sponsor-comment-badge-renderer
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com##.ytp-button.ytp-next-button
+www.youtube.com##[aria-label="Reply"]
+www.youtube.com##a:has(>yt-formatted-string:has-text(Save))
+youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer) 
+youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##a[href="/watch?v=dQw4w9WgXcQ"]
+youtube.com##yt-tooltip-renderer:has-text(Sign in to like videos, comment, and subscribe.)
+youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
 ||www.youtube.com/api/stats/playback$domain=www.youtube.com
 ||www.youtube.com/api/stats/watchtime$domain=www.youtube.com
 ||www.youtube.com/youtubei/v1/log_event$xhr,domain=www.youtube.com
-!||www.youtube.com/ytscframe$subdocument
-##[href^="https://www.youtube.com/watch?v=gkTb9GP9lVI"]
 
 #sklepy
 www.euro.com.pl###question-form-box
@@ -64,6 +76,15 @@ www.wykop.pl##.social-show
 www.wykop.pl##.similar.rbl-block
 www.wykop.pl##.wgt-meczyki
 www.wykop.pl###translate-page
+www.wykop.pl##[href="https://wykopaka.pl/"]
+wykop.pl##.entry:has-text(#f1)
+wykop.pl##.entry:has-text(#famemma)
+wykop.pl##.entry:has-text(#kononowicz)
+wykop.pl##.entry:has-text(#mecz)
+wykop.pl##.entry:has-text(danielmagical)
+wykop.pl##.entry:has-text(hotelparadise)
+wykop.pl##.entry:has-text(patostreamy)
+wykop.pl##.entry:has-text(raportzpanstwasrodka)
 
 old.reddit.com##.commentsignupbar
 ||b.thumbs.redditmedia.com$stylesheet,domain=old.reddit.com
@@ -87,12 +108,18 @@ old.reddit.com###header-img
 old.reddit.com###redesign-beta-optin-btn
 
 gw2efficiency.com##.donate-buttons
+gg.deals###about
 gg.deals###keyshops
 gg.deals###recommended
 gg.deals##.about
 gg.deals##.bg-light
+gg.deals##.disabled.game-info-price-col
+gg.deals##.disabled.historical
 gg.deals##.game-info-content
+gg.deals##.game-news-list
 gg.deals##.page-info-widget
+gg.deals##.social-box-discord
+gg.deals##.social-box-follow
 
 www.filmweb.pl##.filmRating--filmCritic
 www.filmweb.pl##.FilmReviewSection
@@ -105,6 +132,9 @@ store.steampowered.com##.review_award_button
 
 9gag.com##.signup-view
 
+odysee.com##.approved-bank-account__button
+odysee.com##.button--file-action--tooltip
+odysee.com##.button--membership
 odysee.com##.claim-preview--premium-plus
 odysee.com##.comment-create__auth
 odysee.com##.nag--helpful
