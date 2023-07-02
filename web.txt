@@ -115,7 +115,6 @@ gg.deals##.about
 gg.deals##.bg-light
 gg.deals##.disabled.game-info-price-col
 gg.deals##.disabled.historical
-gg.deals##.game-info-content
 gg.deals##.game-news-list
 gg.deals##.page-info-widget
 gg.deals##.social-box-discord
