@@ -7,7 +7,6 @@
 0.0.0.0 gmpg.org
 0.0.0.0 np.reddit.com
 0.0.0.0 pay.google.com
-0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 redir.opera.com
 0.0.0.0 search.services.mozilla.com
 0.0.0.0 speeddials.opera.com
