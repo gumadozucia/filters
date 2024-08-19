@@ -88,22 +88,6 @@ wykop.pl##.entry:has-text(raportzpanstwasrodka)
 
 old.reddit.com##.commentsignupbar
 ||b.thumbs.redditmedia.com$stylesheet,domain=old.reddit.com
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Battlestation"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Benchmark"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Build/Photos"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="COVID-19"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="On this day"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Photo"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Picture"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Rumor"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Sale"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="Video"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="[Art]"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="[E-Sports]"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="[Fluff]"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="[Other]"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="[Shout-out]"]))))
-old.reddit.com##div:has(>div:has(>div:has(>p:has(>[title="[VoD]"]))))
 old.reddit.com###header-img
 old.reddit.com###redesign-beta-optin-btn
 
